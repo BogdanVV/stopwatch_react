@@ -1,0 +1,14 @@
+.Button {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 1rem;
+  padding: .5rem;
+  border-radius: .5rem;
+  width: 5rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  background-color: #fff;
+}
+
+.Button:active {
+  box-shadow: inset 2px 2px 2px 2px lightgray;
+}

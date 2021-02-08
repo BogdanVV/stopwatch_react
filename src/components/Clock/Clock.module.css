@@ -1,0 +1,19 @@
+.Clock {
+  width: 100%;
+  color: #fff;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 4rem;
+  display: flex;
+  justify-content: center;
+}
+
+.Clock span {
+  color: #000;
+  display: flex;
+  background-color: #fff;
+  border-radius: 0.5rem;
+  padding: .7rem;
+  height: 4rem;
+  align-items: center;
+  justify-content: center;
+}
